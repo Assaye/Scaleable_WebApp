@@ -14,4 +14,8 @@
     + First upgrade pyhton `python -m pip install --upgrade pip`
     + Flask `pip install flask`
     + Check what's installed `pip freeze > requirements.txt` then `pip freeze`
-    
+
+4. Object oriented programming 
+    + class - is a reuseable blueprint that has a set of properties & methods  
+    + class can be accessed by creating instances of that class
+    + instance 
