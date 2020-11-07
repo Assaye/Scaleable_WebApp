@@ -1,7 +1,8 @@
 class Math:
     note = 'this is the class variable'
+    # note is a class variable coz we define it under a calss Math
 
-    # functions below are called methods within python class
+    # functions below are called methods in object oriented programming
     def add(self, num1, num2):
         print('addition: ', num1 + num2)
 
